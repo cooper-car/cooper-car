@@ -1,5 +1,10 @@
 ## Hi there, I'm Cooper 👋
 
+- 🔭 A passionate developer
+
+
+
+
 <!--
 **cooper-car/cooper-car** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
