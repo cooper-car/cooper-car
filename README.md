@@ -1,6 +1,6 @@
 ## Hi there, I'm Cooper 👋
 
-- 🔭 A passionate developer
+- a passionate developer
 
 
 
